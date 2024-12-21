@@ -1,3 +1,8 @@
+### This fork
+
+This fork adds support for the [carnival keyboard](https://github.com/StoneGoat89/Carnival). 
+The compiled binary can be found in releases.
+
 # Adafruit nRF52 Bootloader
 
 [![Build Status](https://github.com/adafruit/Adafruit_nRF52_Bootloader/workflows/Build/badge.svg)](https://github.com/adafruit/Adafruit_nRF52_Bootloader/actions)
